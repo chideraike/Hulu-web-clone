@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![1440x1026](https://user-images.githubusercontent.com/42821245/116022131-7fac1080-a641-11eb-8964-9824cb9dcc41.png)
+
+> Check out the build [here](https://hulu.chidera.dev)
+
 ## Getting Started
 
 First, run the development server:
