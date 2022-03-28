@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![1440x1026](https://user-images.githubusercontent.com/42821245/116022131-7fac1080-a641-11eb-8964-9824cb9dcc41.png)
+![hulu-web-clone](https://user-images.githubusercontent.com/42821245/160361301-f5a10109-64fd-4435-b44b-5d13b7ff2a8e.png)
 
-> Check out the build [here](https://hulu.chidera.dev)
+> Check out the build [here](https://hulu-web-clone.vercel.app/)
 
 ## Getting Started
 
